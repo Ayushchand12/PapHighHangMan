@@ -1,4 +1,4 @@
-lenimport random 
+import random 
 
 with open('pollution.txt','r') as f:
     words = f.readlines()
